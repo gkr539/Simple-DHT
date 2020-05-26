@@ -1,0 +1,4 @@
+#Thu May 14 17:00:05 EDT 2020
+base.0=/Users/gouthamkrs/Desktop/UB-Courses/sem2/DS/p3/SimpleDht/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

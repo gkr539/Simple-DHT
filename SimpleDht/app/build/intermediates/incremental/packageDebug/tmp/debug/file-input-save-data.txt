@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu May 14 17:00:05 EDT 2020
+0.baseType=DIRECTORY
+0.base=/Users/gouthamkrs/Desktop/UB-Courses/sem2/DS/p3/SimpleDht/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1
